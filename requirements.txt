@@ -1,6 +1,6 @@
 numpy==1.15.0
 pandas==0.23.3
-tensorflow-gpu==1.4
+tensorflow-gpu==1.14
 keras==2.2.2
 matplotlib==2.2.2
 keras_applications==1.0.7
